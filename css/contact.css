@@ -67,15 +67,6 @@ li{
 .side_menu li:hover{
   opacity: 0.6;
 }
-.banner img{
-  width: 100%;
-}
-.banner{
-  margin-top: 10px;
-}
-.banner a:hover{
-  opacity: 0.6;
-}
 .side_menu{
   width: 300px;
   float: left;
